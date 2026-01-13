@@ -1,0 +1,15 @@
+{
+  "name": "com.natearasti.unotes",
+  "version": "1.0.0",
+  "displayName": "UNotes",
+  "description": "This package provides the ability to add notes to Unity Object's inspectors, as well as general project notes and all notes moderation.",
+  "keywords": [
+    "Extensions",
+    "Code",
+    "Tools"
+  ],
+  "author": {
+    "name": "NateArasti"
+  },
+  "type": "tool"
+}
