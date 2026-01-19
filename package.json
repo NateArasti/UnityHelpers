@@ -1,0 +1,15 @@
+{
+  "name": "com.natearasti.pretty-logging",
+  "version": "1.0.0",
+  "displayName": "Pretty Logging",
+  "description": "This package provides minimal logic to easily log in a more structured way — '[<scope>]: <log>'.",
+  "keywords": [
+    "Extensions",
+    "Code",
+    "Tools"
+  ],
+  "author": {
+    "name": "NateArasti"
+  },
+  "type": "tool"
+}

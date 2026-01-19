@@ -1,0 +1,14 @@
+{
+    "name": "NateArasti.PrettyLogging",
+    "rootNamespace": "PrettyLogging",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
