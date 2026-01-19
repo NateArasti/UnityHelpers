@@ -1,0 +1,15 @@
+{
+  "name": "com.natearasti.helper-functions",
+  "version": "1.0.0",
+  "displayName": "Helper Functions",
+  "description": "This package consist of different helper function for Unity development.",
+  "keywords": [
+    "Extensions",
+    "Code",
+    "Tools"
+  ],
+  "author": {
+    "name": "NateArasti"
+  },
+  "type": "tool"
+}
