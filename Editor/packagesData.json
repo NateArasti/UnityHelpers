@@ -1,0 +1,39 @@
+{
+    "packageDatas": [
+        {
+            "m_PackageDisplayName": "Helper Functions",
+            "m_PackageName": "com.natearasti.helper-functions",
+            "m_GitUrl": "https://github.com/NateArasti/UnityHelpers.git#helper-functions"
+        },
+        {
+            "m_PackageDisplayName": "UNotes",
+            "m_PackageName": "com.natearasti.unotes",
+            "m_GitUrl": "https://github.com/NateArasti/UnityHelpers.git#unotes"
+        },
+        {
+            "m_PackageDisplayName": "Pretty Logging",
+            "m_PackageName": "com.natearasti.pretty-logging",
+            "m_GitUrl": "https://github.com/NateArasti/UnityHelpers.git#pretty-logging"
+        },
+        {
+            "m_PackageDisplayName": "Extended File Logger",
+            "m_PackageName": "com.natearasti.extended-file-logger",
+            "m_GitUrl": "https://github.com/NateArasti/UnityHelpers.git#extended-file-logger"
+        },
+        {
+            "m_PackageDisplayName": "NaughtyAttributes",
+            "m_PackageName": "com.dbrizov.naughtyattributes",
+            "m_GitUrl": "https://github.com/dbrizov/NaughtyAttributes.git#upm"
+        },
+        {
+            "m_PackageDisplayName": "Quick Eye Utilities",
+            "m_PackageName": "com.quickeye.utility",
+            "m_GitUrl": "https://github.com/ErnSur/QuickEye-Utility.git#upm"
+        },
+        {
+            "m_PackageDisplayName": "DependenciesHunter",
+            "m_PackageName": "unity-dependencies-hunter",
+            "m_GitUrl": "https://github.com/AlexeyPerov/Unity-Dependencies-Hunter.git#upm"
+        }
+    ]
+}

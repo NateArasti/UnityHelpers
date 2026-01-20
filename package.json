@@ -1,0 +1,15 @@
+{
+  "name": "com.natearasti.helpers-installer",
+  "version": "1.0.0",
+  "displayName": "Helpers Installer",
+  "description": "This package adds ability to load different helper packages for Unity.",
+  "keywords": [
+    "Extensions",
+    "Code",
+    "Tools"
+  ],
+  "author": {
+    "name": "NateArasti"
+  },
+  "type": "tool"
+}
