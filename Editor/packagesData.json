@@ -31,8 +31,8 @@
             "m_GitUrl": "https://github.com/ErnSur/QuickEye-Utility.git#upm"
         },
         {
-            "m_PackageDisplayName": "DependenciesHunter",
-            "m_PackageName": "unity-dependencies-hunter",
+            "m_PackageDisplayName": "Dependencies Hunter",
+            "m_PackageName": "com.alexeyperov.unity-dependencies-hunter",
             "m_GitUrl": "https://github.com/AlexeyPerov/Unity-Dependencies-Hunter.git#upm"
         }
     ]
