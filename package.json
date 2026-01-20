@@ -1,0 +1,15 @@
+{
+  "name": "com.natearasti.extended-file-logger",
+  "version": "1.0.0",
+  "displayName": "Extended File Logger",
+  "description": "This package adds option to have file logging on platforms that doesn't have it by default.",
+  "keywords": [
+    "Extensions",
+    "Code",
+    "Tools"
+  ],
+  "author": {
+    "name": "NateArasti"
+  },
+  "type": "tool"
+}
